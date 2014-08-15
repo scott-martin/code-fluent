@@ -1,10 +1,10 @@
 # Site settings
-title: Pixyll
-email: johnotander@gmail.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title: Code-Fluent
+email: scottr.martin@gmail.com
+author: Scott Martin
+description: "Scott Martin's development blog"
 baseurl: ""
-url: "http://pixyll.com"
+url: "http://scott-martin.github.io/code-fluent"
 
 # Build settings
 markdown: kramdown
