@@ -3,7 +3,7 @@ title: Code-Fluent
 email: scottr.martin@gmail.com
 author: Scott Martin
 description: "Scott Martin's development blog"
-baseurl: ""
+baseurl: "http://scott-martin.github.io/code-fluent"
 url: "http://scott-martin.github.io/code-fluent"
 
 # Build settings
