@@ -4,16 +4,12 @@ title: About Code-Fluent
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Code-Fluent is Scott Martin.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I am a software engineer at PeopleMatter in Charleston, South Carolina. I love to learn and solve problems. 
 
-Thanks to the following:
+Every time I run into a problem, I search the internet for a solution. 
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+I started this blog because I want to give back. From working in a dirty scrap metal yard in Montana trying to figure out how to go back to school, through the years of school getting help with my coursework, and still now as a software professional; I have always read others blogs to help me find answers. 
+
+Now I hope to share some of those answers with you.
