@@ -7,13 +7,13 @@ author:     Scott Martin
 categories: microservices, docker
 ---
 
-I recently gave a talk along with my friend Joseph Gimenez at my company PeopleMatter about how Docker can help you achieve a Microservices style architecture. What made the whole experience so cool was that I am a software engineer at PM, and Joseph is a devops engineer; so we were able to show the usefulness of Docker from 2 very different perspectives. 
+I recently gave a talk along with my coworker Joseph Gimenez at PeopleMatter about how Docker can help you achieve a Microservices style architecture. Joseph is on the Devops team, and I am on the Engineering team, so we were able to show the usefulness of Docker from 2 very different perspectives, which made the experience really enjoyable and enlightening.
 
 ## What's all this about Microservices?
 
 The term itself is a fad, but the idea has been around for a while. Instead of creating your enterprise application as one big "monolithic" application, create it as a system of multiple independent services; each service focusing on doing *one* thing well. 
 
-Don't get caught up in how big micro should be, or how you define "one thing". "One thing" is about the level of abstraction. A *function* should do one thing, as a *class* should do one thing, as a *service* should do one thing, as an *application* should do one thing, as even an *organization* should do one thing. "One" depends on which level you're talking about.
+Don't get caught up in how big micro should be, or how you define "one thing". "One thing" is about the level of abstraction. A *function* should do one thing, as a *class* should do one thing, as a *service* should do one thing, as an *application* should do one thing, as even an *organization* should do one thing. The definition of "one thing" should only be as granular as the current level of abstraction.
 
 > “The microservice architectural style is an approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms. These services are built around business capabilities and independently deployable by fully automated deployment machinery.” -- [Lewis, Fowler](http://martinfowler.com/articles/microservices.html)
 
